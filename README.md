@@ -1,6 +1,6 @@
 # new-demo
 this is my first Git Repository
 <br>
-Author - Satya Nambu
+Author - Satya (Opentext)
 <br>
 Mood - off
